@@ -84,7 +84,7 @@ img.rect-img {
 
 # Авторы методики
 
-<div class="grid grid-cols-3 gap-15">
+<div class="grid grid-cols-[3fr_4fr_3fr] gap-15">
 
 <div>
 <figure>
